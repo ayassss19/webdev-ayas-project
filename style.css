@@ -39,6 +39,11 @@ h2, h3 {
     margin-bottom: 0.5em;
 }
 
+.gallery h2 {
+    color: #cde7f4ff;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+}
+
 p {
     margin-bottom: 1em;
     color: black;
@@ -80,6 +85,7 @@ aside {
     border-radius: 10px;
     transition: box-shadow 0.5s ease;
     margin-bottom: 20px;
+    color: #052d41ff
 }
 
 .grid-container .item:hover {
