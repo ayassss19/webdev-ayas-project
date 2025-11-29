@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const mainContent = document.querySelector("main");
     const aside = document.querySelector ("aside");
 
-
+    
     title.textContent = "Belajar Javascript Dasar - Interaksi Pertama🖥️";
     title.addEventListener("click", () => {
         nav.classList.toggle("show-nav");
